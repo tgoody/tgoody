@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **tgoody/tgoody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tgoody&count_private=true&hide=stars,issues&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgoody&layout=compact&hide=html,css" />
+<a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgoody&layout=compact&hide=html,css&theme=radical" />
 </a>
