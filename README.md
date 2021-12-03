@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tgoody&count_private=true&show_icons=true&theme=radical&hide_rank=true&hide=issues,contribs" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tgoody&count_private=true&show_icons=true&theme=radical&hide_rank=true&hide=issues,contribs" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgoody&layout=compact&hide=html,css,processing&theme=radical&langs_count=6&card_width=250" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgoody&layout=compact&hide=html,css,processing&theme=radical&langs_count=6&card_width=250" />
 </a>
 
