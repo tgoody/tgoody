@@ -1,4 +1,3 @@
-### Hi there! 👋
 
 <!--
 **tgoody/tgoody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-| <img align="center" src="https://github-readme-stats-lju7iw8ol-tgoody.vercel.app/api?username=tgoody&count_private=true&show_icons=true&theme=radical&hide_rank=true&hide=issues,contribs&line_height=30&hide_border=true"/></a> | <img align="center" src="https://github-readme-stats-lju7iw8ol-tgoody.vercel.app/api/top-langs/?username=tgoody&layout=compact&hide=html,css,processing&theme=radical&langs_count=6&card_width=250&hide_border=true"/></a> |
-| ------------- | ------------- |
-
+<p align="center">
+  <strong>Hi there! 👋</strong>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-lju7iw8ol-tgoody.vercel.app/api?username=tgoody&count_private=true&show_icons=true&theme=radical&hide_rank=true&hide=issues,contribs&line_height=30&hide_border=true" />  
+  <img src="https://github-readme-stats-lju7iw8ol-tgoody.vercel.app/api/top-langs/?username=tgoody&layout=compact&hide=html,css,processing&theme=radical&langs_count=6&card_width=250&hide_border=true" />
+</p>
